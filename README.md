@@ -1,4 +1,4 @@
-# node-marketo
+# node-rest-marketo
 
 This implements (a subset of) Marketo's REST API.
 
