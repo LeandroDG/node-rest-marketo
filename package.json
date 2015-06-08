@@ -1,10 +1,10 @@
 {
-  "name": "node-marketo",
+  "name": "node-rest-marketo",
   "version": "0.2.4",
   "description": "marketo rest client",
   "repository": {
     "type": "git",
-    "url": "https://github.com/usermindinc/node-marketo/"
+    "url": "https://github.com/LeandroDG/node-rest-marketo"
   },
   "engines": {
     "node": ">=0.10.29"
